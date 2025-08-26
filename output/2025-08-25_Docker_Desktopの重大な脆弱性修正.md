@@ -1,5 +1,5 @@
 - **収集元サイト**
-The Hacker News
+Security Affairs
 
 - **掲載日**
 2025-08-25
@@ -8,19 +8,19 @@ The Hacker News
 Docker Desktopの重大な脆弱性修正
 
 - **概要**
-CVE-2025-9074として追跡されるDocker Desktopの脆弱性は悪意あるコンテナが隔離を突破する可能性がありバージョン443で修正された。
+Docker DesktopのWindowsとmacOS版に存在した重大な脆弱性[[CVE-2025-9074]]が修正された。この脆弱性により攻撃者がコンテナの制限を回避する可能性があったため迅速な対応が行われた。
 
 - **URL**
-https://thehackernews.com/2025/08/docker-fixes-cve-2025-9074-critical.html
+https://securityaffairs.com/181545/security/docker-fixes-critical-desktop-flaw-allowing-container-escapes.html
 
 - **備考**
-Docker Desktopの重大な脆弱性はコンテナの隔離突破を許すため迅速なアップデートが推奨される脆弱性管理と監視強化が必要である。
+Docker Desktopの重大な脆弱性はコンテナの安全性に影響を与えるため速やかな修正が必要でありユーザーは最新版への更新を推奨する。
 
 - **分類**
 [[注意喚起]]
 
 - **組織名**
-N/A
+Docker
 
 - **業種**
 N/A
@@ -29,7 +29,7 @@ N/A
 [[脆弱性の悪用]]
 
 - **攻撃影響**
-悪意あるコンテナによる隔離突破の可能性
+コンテナ脱出の脆弱性修正
 
 - **脅威アクター**
 N/A
@@ -41,4 +41,4 @@ N/A
 不明
 
 - **ハッシュタグ**
-アップデート適用、監視強化、脆弱性管理
+最新版への更新推奨、監視強化、セキュリティ対策の徹底
