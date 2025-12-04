@@ -1,5 +1,5 @@
 - **収集元サイト**
-The Hacker News
+Security Affairs
 
 - **掲載日**
 2025-12-03
@@ -8,16 +8,16 @@ The Hacker News
 WordPress King Addonsの重大脆弱性
 
 - **概要**
-WordPressプラグインKing Addons for Elementorにおいて[[CVE-2025-8489]]の特権昇格脆弱性が発見され未認証攻撃者が管理者権限を取得可能であり広範囲に悪用されている。
+WordPressプラグインKing Addonsの[[CVE-2025-8489]]により未認証ユーザーが管理者権限を取得可能な脆弱性が発見された。攻撃者は登録機能の欠陥を悪用し管理者アカウントを作成できるため迅速な対策が必要である。
 
 - **URL**
-https://thehackernews.com/2025/12/wordpress-king-addons-flaw-under-active.html
+https://securityaffairs.com/185286/hacking/king-addons-flaw-lets-anyone-become-wordpress-admin.html
 
 - **備考**
-この脆弱性は深刻で迅速なパッチ適用が必要であり管理者権限の不正取得を防ぐためアクセス制御強化と監視体制の強化が推奨される。
+この脆弱性は深刻で迅速なパッチ適用が推奨される。管理者権限の不正取得を防ぐためアクセス制御強化と監視体制の整備が重要である。
 
 - **分類**
-[[他組織インシデント]]
+[[注意喚起]]
 
 - **組織名**
 N/A
@@ -35,10 +35,10 @@ N/A
 N/A
 
 - **原因**
-不明
+[[不明]]
 
 - **対処方法**
-パッチ適用アクセス制御強化監視体制強化
+パッチ適用、アクセス制御強化、監視体制整備
 
 - **ハッシュタグ**
 #WordPress #脆弱性 #セキュリティ
