@@ -8,16 +8,16 @@ Elastic Security Labs
 SILENTCONNECTによるScreenConnect展開
 
 - **概要**
-SILENTCONNECTはVBScriptやメモリ内PowerShellを利用しPEB偽装でScreenConnectを静かに展開する多段階ローダーである。
+SILENTCONNECTはVBScriptとメモリ内PowerShellを使いPEB偽装でScreenConnectを静かに展開する多段階ローダーである。
 
 - **URL**
 https://www.elastic.co/security-labs/silentconnect-delivers-screenconnect
 
 - **備考**
-SILENTCONNECTの多段階攻撃手法に注意し検出回避技術への対策が重要であり監視強化と不審なスクリプトの分析を推奨する。
+SILENTCONNECTの多段階展開手法に注意し検知回避対策を強化することが重要でありPowerShellの監視と不審なスクリプトの分析を推奨する。
 
 - **分類**
-[[他組織インシデント]]
+[[マルウェア]]
 
 - **組織名**
 N/A
@@ -38,7 +38,7 @@ N/A
 不明
 
 - **対処方法**
-監視強化、スクリプト解析、不審活動の検出強化
+監視強化、スクリプト解析、アクセス制御強化
 
 - **ハッシュタグ**
-#マルウェア #ScreenConnect #サイバー攻撃
+#マルウェア #ScreenConnect #サイバーセキュリティ

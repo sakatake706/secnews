@@ -8,13 +8,13 @@ Elastic Security Labs
 Defend for Containersの導入ガイド
 
 - **概要**
-Kubernetes環境でのDefend for Containers統合手順とBPFによる実行時テレメトリ解析を解説しポリシー駆動のセキュリティ制御でコンテナ環境の監視と警告を実現する。
+ElasticのDefend for Containers統合についてKubernetes環境での展開方法BPFによるランタイムテレメトリ分析とポリシー駆動のセキュリティ制御適用を解説
 
 - **URL**
 https://www.elastic.co/security-labs/getting-started-with-defend-for-containers
 
 - **備考**
-コンテナ環境のセキュリティ強化に有効でBPF解析とポリシー制御の活用が推奨される
+コンテナ環境のセキュリティ強化に向け監視とアラート設定が重要でありポリシー管理の実践が推奨される。
 
 - **分類**
 [[他組織インシデント]]
@@ -38,7 +38,7 @@ N/A
 不明
 
 - **対処方法**
-監視強化、ポリシー設定、アラート対応
+監視強化ポリシー適用アラート設定
 
 - **ハッシュタグ**
-#コンテナセキュリティ #Kubernetes #BPF
+#コンテナセキュリティ #Kubernetes #ElasticSecurity
