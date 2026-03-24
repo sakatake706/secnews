@@ -8,13 +8,13 @@ Elastic Security Labs
 Elastic Security XDRによる多段攻撃対策
 
 - **概要**
-Elastic Security XDRはエンドポイント保護と多領域のセキュリティ分析を統合しハイブリッドクラウド環境での多段階攻撃の追跡と封じ込めを支援する。
+Elastic Security XDRはエンドポイント保護と多領域のセキュリティ分析を統合しハイブリッド環境での多段階攻撃の追跡と封じ込めを支援する。
 
 - **URL**
 https://www.elastic.co/security-labs/investigating-from-the-endpoint-across-your-environment
 
 - **備考**
-多段攻撃の検出と対応を統合的に強化することが重要であり迅速な分析と封じ込めを推奨する。
+多段攻撃の検出と対応を効率化し迅速な封じ込めを可能にするために統合的な分析と監視の強化が推奨される。
 
 - **分類**
 [[他組織インシデント]]
@@ -38,7 +38,7 @@ N/A
 不明
 
 - **対処方法**
-迅速な分析封じ込め対応監視強化
+統合的な監視強化と迅速な対応の実施
 
 - **ハッシュタグ**
 #ElasticSecurity #XDR #多段攻撃
