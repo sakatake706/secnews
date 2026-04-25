@@ -8,13 +8,13 @@ Elastic Security Labs
 Claude CodeとCoworkの監視パイプライン構築
 
 - **概要**
-ElasticのInfoSecチームがClaude CodeとClaude Coworkの監視パイプラインをOTelのネイティブ機能とElasticのOTelインジェスト基盤を用いて構築し効率的なデータ収集と分析を実現した。
+ElasticのInfoSecチームがClaude CodeとClaude Coworkの監視パイプラインをOTelのネイティブ機能とElasticのOTel受信基盤を用いて構築し効率的なデータ収集と分析を実現した。
 
 - **URL**
 https://www.elastic.co/security-labs/claude-code-cowork-monitoring-otel-elastic
 
 - **備考**
-監視パイプラインの構築は高度な可視化と迅速な脅威検出に寄与しOTelの活用とElastic基盤の連携が推奨される。
+監視パイプラインの構築は脅威検出の精度向上に寄与しOTelの活用が効果的であるため導入推奨
 
 - **分類**
 [[他組織インシデント]]
@@ -38,7 +38,7 @@ N/A
 不明
 
 - **対処方法**
-監視強化、データ収集の自動化、分析体制の整備
+監視基盤の整備とOTel活用によるデータ収集強化
 
 - **ハッシュタグ**
 #監視パイプライン #OTel #Elastic
