@@ -1,5 +1,5 @@
 - **収集元サイト**
-The Hacker News
+Security Affairs
 
 - **掲載日**
 2026-05-04
@@ -8,13 +8,13 @@ The Hacker News
 MOVEit Automationの重大な脆弱性修正
 
 - **概要**
-Progress SoftwareがMOVEit Automationの認証バイパスを含む二つの脆弱性を修正した。MOVEitは企業向けの安全なファイル転送ソリューションであり、今回の修正はセキュリティ強化に重要である。
+Progress SoftwareがMOVEit Automationの認証バイパスと権限昇格の脆弱性[[CVE-2026-4670]]と[[CVE-2026-5174]]を修正したこれらの欠陥は悪用されると不正アクセスを許す可能性がある
 
 - **URL**
-https://thehackernews.com/2026/05/progress-patches-critical-moveit.html
+https://securityaffairs.com/191681/security/moveit-automation-flaws-could-enable-full-system-compromise.html
 
 - **備考**
-認証バイパスの脆弱性は重大であり速やかなアップデートが推奨される。企業は最新パッチ適用と監視強化を実施すべきである。
+認証バイパスの脆弱性は重大で迅速な修正が必要でありシステム管理者はアップデート適用と監視強化を推奨する
 
 - **分類**
 [[他組織インシデント]]
@@ -29,7 +29,7 @@ N/A
 [[脆弱性の悪用]]
 
 - **攻撃影響**
-N/A
+不正アクセスの可能性あり
 
 - **脅威アクター**
 N/A
@@ -38,7 +38,7 @@ N/A
 不明
 
 - **対処方法**
-アップデート適用、監視強化、セキュリティ対策の徹底
+アップデート適用、監視強化、アクセス制御の見直し
 
 - **ハッシュタグ**
-#MOVEit #脆弱性 #セキュリティ
+#MOVEit #脆弱性 #セキュリティアップデート
